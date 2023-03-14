@@ -1,7 +1,7 @@
 # IC-Notepad-Syntax
 A modern-themed notepad++ Junos Syntax
 
-This repo is a custom language definition for JUNOS to be used with Notepad++.
+This repo is a custom language definition for JUNOS to be used with Notepad++ sylized with modern colourpallets.
 
 ## Installation
 Download this repo, or specific files that you wish to use, and then open up Notepad++, and go to Language > Define your language. Click on "Import," and find the Junos.xml file that you wish to import.
